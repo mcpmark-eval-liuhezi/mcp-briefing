@@ -4,7 +4,7 @@ Team onboarding resource pack for the **Model Context Protocol (MCP)**, assemble
 
 ## What's here
 
-- **[MCP onboarding resource pack](https://github.com/mcpmark-eval-liuhezi/mcp-briefing/issues/1)** — the tracking issue holding the full compiled briefing:
+- **[MCP onboarding resource pack](https://github.com/mcpmark-eval-liuhezi/mcp-briefing/issues/2)** — the tracking issue holding the full compiled briefing:
   - Anchor video rundown: *MCP In 26 Minutes (Model Context Protocol)* by Tina Huang — publish date, length, view/like counts, and a topic digest
   - Channel profile and recent uploads for Tina Huang
   - Alternative MCP intro/overview videos from other channels
